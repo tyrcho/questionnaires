@@ -1,0 +1,7 @@
+ROADMAP (future use cases)
+- create a simple questionnaire
+- take the questionnaire and save answers
+- rate it (good/bad answers)
+- define user tables (english verbs, glossary ...)
+- fill user table
+- generate questionnaire based on user table
